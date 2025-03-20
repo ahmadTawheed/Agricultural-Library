@@ -2,37 +2,37 @@ const cardsData = [
     {
         imageUrl: 'img/img1.png',
         title: 'المحاصيل الزراعية',
-        link: '../routs/crops/index.html'
+        link: 'https://ahmadtawheedd.github.io/crops/'
     },
     {
         imageUrl: 'img/ipm.png',
         title: 'IPM',
-        link: '../routs/ipm/index.html'
+        link: 'https://ahmadtawheedd.github.io/ipm/'
     },
     {
         imageUrl: 'img/img2.png',
         title: 'الآفات الحشرية',
-        link: '../routs/pestcides/index.html'
+        link: 'https://ahmadtawheedd.github.io/pestcides/'
     },
     {
         imageUrl: 'img/img3.png',
         title: 'الأمراض المعدية',
-        link: '../routs/desiase/index.html'
+        link: 'https://ahmadtawheedd.github.io/desiase/'
     },
     {
         imageUrl: 'img/img4.png',
         title: 'الأمراض الغير المعدية',
-        link: '../routs/undesiase/index.html'
+        link: 'https://ahmadtawheedd.github.io/undesiase/'
     },
     {
         imageUrl: 'img/img5.png',
         title: 'الري والتسميد',
-        link: '../routs/feltrization/index.html'
+        link: 'https://ahmadtawheedd.github.io/feltrization/'
     },
         {
         imageUrl: 'img/img6.png',
         title: 'المبيدات الزراعية',
-        link: '../routs/pest/index.html'
+        link: 'https://ahmadtawheedd.github.io/pest/'
     },
         {
         imageUrl: 'img/img7.png',
